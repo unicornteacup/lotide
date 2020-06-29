@@ -28,3 +28,5 @@ assertEqual(result, ["Lighthouse", "Labs"]);
 //    if(a[i]!=b[i]) 
 //     return "False"; 
 //     return "True"; 
+
+module.exports = tail;
